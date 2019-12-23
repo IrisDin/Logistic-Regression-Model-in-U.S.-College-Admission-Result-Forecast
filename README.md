@@ -11,7 +11,8 @@ the admission decision for U.S. graduate school of Chinese applicants
 
 ### Input And Output Data Information
 
-<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/input.png" width="800px">
+![input](https://github.com/IrisDin/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/blob/master/pic/input.png)
+
 
 
 ### Data Processing
@@ -36,10 +37,14 @@ Libraries like pandas, numpy and pyplot are quite standard python data processin
    3. Model Summary Table & Explanation
 
 ### Results and performance
-<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result1.png" width="800px">
-<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result2.png" width="800px">
-<img src="https://github.com/xuyuan11/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/tree/master/pic/result3.png" width="800px">
+![result1](https://github.com/IrisDin/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/blob/master/pic/result1.png)
+
+![result2](https://github.com/IrisDin/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/blob/master/pic/result2.png)
+
+![result3](https://github.com/IrisDin/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/blob/master/pic/result3.png)
 
 
 ### paper
-<img src="./pic/paper.png" width="800px">
+
+![paper](https://github.com/IrisDin/Logistic-Regression-Model-in-U.S.-College-Admission-Result-Forecast/blob/master/pic/paper.png)
+
