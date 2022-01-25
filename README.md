@@ -30,8 +30,9 @@ since they are unlikely to happen in reality and probably out of data entry erro
 
 
 ### Materials and Methodology
-Libraries like pandas, numpy and pyplot are quite standard python data processing/plottinglibraries that we use for basic data manipulation. Additionally, for this model, we importedthe sklearn library, which is a powerful package that contains our main algorithm of logisticregression. Also, packages like preprocessing and metrics in sklearn can help us preprocessdata and evaluate the performance of the model. For instance, the confusion matrix and itsderived metrics would be used to visualize and evaluate the model performanc
-## Outlier Detection & Processing
+Libraries like pandas, numpy and pyplot are quite standard python data processing/plottinglibraries that we use for basic data manipulation. Additionally, for this model, we importedthe sklearn library, which is a powerful package that contains our main algorithm of logisticregression. Also, packages like preprocessing and metrics in sklearn can help us preprocessdata and evaluate the performance of the model. For instance, the confusion matrix and itsderived metrics would be used to visualize and evaluate the model performance.
+
+### Outlier Detection & Processing
    1. SMOTE to Handle Data Imbalan
    2. Recursive Feature Elimination (RFE)
    3. Model Summary Table & Explanation
